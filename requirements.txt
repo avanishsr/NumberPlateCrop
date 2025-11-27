@@ -1,0 +1,9 @@
+setuptools>=65
+wheel
+flask==2.2.5
+ultralytics==8.2.92
+pillow
+numpy
+opencv-python-headless
+gunicorn
+requests
